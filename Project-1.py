@@ -3,6 +3,6 @@ a=2
 b=2
 print(a+b)
 
-C=4
+c=4
 d=5
-print(C+d)
+print(c+d)
