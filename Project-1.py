@@ -9,4 +9,4 @@ print(c+d)
 
 print(c*d)
 print(c**d)
-
+print(c*d)
